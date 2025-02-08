@@ -13,3 +13,7 @@ We use our own server connected to internet with enough bandwidth to serve 300 s
 ## Data Strategy
 
 We purchase supply materials and store them for access in our database.
+
+## Considerations
+
+We consider using IBM Granite for LLM as it is truly open source model with training dataset made public so we can avoid any copyright issues and the model is explainable.
